@@ -1,1 +1,2 @@
 # runtime deps (empty for now)
+httpx
